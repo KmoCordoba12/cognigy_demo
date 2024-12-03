@@ -1,4 +1,4 @@
-# cognigy_demo
+# Cognigy demo (Sales)
 The bot is meant to guide the process of a sales store.
 It will greet the user, capture his/her name and ask for a transaction type.
 
